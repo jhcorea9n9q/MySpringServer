@@ -27,7 +27,7 @@ public class FileService implements FileServiceInterface {
 			try {
 				byte[] bytes = files[i].getBytes();
 				String path = "/var/www/html/resources/" + dir + "/";
-				String dns = "http://springsv/";
+				String dns = "http://Springsv/";
 				
 				File dirF = new File(path);
 				
