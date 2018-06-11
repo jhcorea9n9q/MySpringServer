@@ -49,7 +49,7 @@
 	
 	<filter>
 	  <filter-name>CorsFilter</filter-name>
-	  <filter-class>com.gudi.util.CORSFilter</filter-class>
+	  <filter-class>com.java.util.CORSFilter</filter-class>
 	</filter>
 	<filter-mapping>
 	  <filter-name>CorsFilter</filter-name>
