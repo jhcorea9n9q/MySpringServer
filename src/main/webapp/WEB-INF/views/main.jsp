@@ -1,11 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <html>
 <head>
-	<title>Home</title>
+	<title>File Server</title>
 </head>
 <body>
 <h1>
-	종화 파일서버.
+	종화 파일 서버.(tomcat2, File_Server)
 </h1>
 </body>
 </html>
