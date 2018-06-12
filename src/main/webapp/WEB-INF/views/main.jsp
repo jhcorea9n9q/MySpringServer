@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>
-	Hello File Server!  !
+	종화 파일서버.
 </h1>
 </body>
 </html>
